@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeyahcaule.begeisterbus.de/sitemap.xml
